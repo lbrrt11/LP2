@@ -13,10 +13,10 @@ public class TestaConexao {
         try {
             // Conectar ao banco de dados
             Connection connection = DriverManager.getConnection(url, user, password);
-            System.out.println("Conexão bem-sucedida!");
+            System.out.println("Conexao bem-sucedida!");
             connection.close();
         } catch (SQLException e) {
-            System.out.println("Erro na conexão: " + e.getMessage());
+            System.out.println("Erro na conexao: " + e.getMessage());
         }
     }
 }
