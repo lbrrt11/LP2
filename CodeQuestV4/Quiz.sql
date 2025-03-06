@@ -28,7 +28,7 @@ INSERT INTO questoes (pergunta, op_a, op_b, op_c, op_d, resposta, dificuldade) V
 
 ('O que é um loop "for" em programação?', 'Um tipo de variável', 'Uma estrutura de repetição', 'Uma função', 'Um erro', 'b', 'médio'),  
 ('Qual dos seguintes tipos de dados é imutável em Python?', 'List', 'Dictionary', 'Tuple', 'Set', 'c', 'médio'),  
-('Qual é o operador para exponenciação em Python?', 'exp', '^', '^', '**', 'd', 'médio'),  
+('Qual é o operador para exponenciação em Python?', 'exp', '^', '!', '**', 'd', 'médio'),  
 ('Qual palavra-chave é usada para criar uma classe em Java?', 'define', 'class', 'new', 'object', 'b', 'médio'),  
 
 ('Em SQL, qual comando é usado para atualizar dados em uma tabela?', 'UPDATE', 'ALTER', 'MODIFY', 'CHANGE', 'a', 'difícil'),  
